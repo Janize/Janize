@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janize.
-- 👀 I’m interested a bad girl.
-- 🌱 I’m currently learning Python.
+- 👀 I’m a bad girl.
+- 🌱 I’m learning Python.
 - 💞️ I’m looking to collaborate on all projects.
 - 📫 How to reach me 👍.
 
