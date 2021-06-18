@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" src="https://pbs.twimg.com/profile_images/963836823800705024/U2A-sG0m_400x400.jpg" alt="" width="50" />](https://wago.io/p/KarminX)
 
-[<img align="left" src="https://play-lh.googleusercontent.com/hXzUJqlB3e2-o--OEdziNHQxSql98xxQXeFI2uS-kZx2RVSBHtf3X-IS7x-39ovx" alt="" width="50" />](https://www.wattpad.com/user/Vale_gelatina)
+[<img align="left" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/soundcloud.png" alt="" width="50" />](https://soundcloud.com/ka_vr)
 
+[<img align="left" src="https://play-lh.googleusercontent.com/hXzUJqlB3e2-o--OEdziNHQxSql98xxQXeFI2uS-kZx2RVSBHtf3X-IS7x-39ovx" alt="" width="50" />](https://www.wattpad.com/user/Vale_gelatina)
 <!---
 <br> [![Spotify](https://sptify-7rlxb8uwc-janize.vercel.app/api/spotify)](https://open.spotify.com/user/31zivndcgbdsa4n7ldk4jtbbefd4)
 
