@@ -27,5 +27,5 @@ You can click the Preview link to take a look at your changes.
 <!---
 <br> [![Spotify](https://sptify-7rlxb8uwc-janize.vercel.app/api/spotify)](https://open.spotify.com/user/31zivndcgbdsa4n7ldk4jtbbefd4)
 4444444444444444444
-[<img align="left" src="https://play-lh.googleusercontent.com/hXzUJqlB3e2-o--OEdziNHQxSql98xxQXeFI2uS-kZx2RVSBHtf3X-IS7x-39ovx" alt="" width="50" />](https://www.wattpad.com/user/Vale_gelatina "WATTPAD")
+[<img align="left" src="https://open.spotify.com/artist/4sbP1VVlMNhRvNqO7KcERb?si=w9LgR8N5Q5Chm2Kxvzdhjg&utm_source=copy-link" alt="" width="50" />](https://www.wattpad.com/user/Vale_gelatina "WATTPAD")
 
